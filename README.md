@@ -13,7 +13,7 @@
 - **[Pet Word](#)** – focus on shopping cart and js coding.  
 - **[digiato](#)** – focus on responsive design using bootstrap.  
 
-> 💡 You can see all my repositories [here](https://github.com/YourGitHubUsername?tab=repositories).
+> 💡 You can see all my repositories [here](https://github.com/Sogand-mohamadiPour?tab=repositories).
 
 ---
 
