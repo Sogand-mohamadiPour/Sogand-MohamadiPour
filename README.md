@@ -42,8 +42,8 @@ I’m looking to contribute to **open-source projects** and collaborate on creat
 
 ## 📬 How to Reach Me
 
-- **Email:** [sogandmohamadipour7@gmail.com](mailto:sogandmohamadipour7@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sogand-mohamadipour-93125a268](https://www.linkedin.com/in/sogand-mohamadipour-93125a268)  
+- [Email](mailto:sogandmohamadipour7@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/sogand-mohamadipour-93125a268)
 
 ---
 
