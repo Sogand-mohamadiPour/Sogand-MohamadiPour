@@ -10,8 +10,8 @@
 
 ## 📂 Featured Projects
 
-- **[Pet Word](#)** – focus on shopping cart and js coding.  
-- **[digiato](#)** – focus on responsive design using bootstrap.  
+- **[Pet World](https://github.com/Sogand-mohamadiPour/pet-world)** – A web app focusing on shopping cart functionality and advanced JavaScript coding.  
+- **[Digiato](https://github.com/Sogand-mohamadiPour/digito)** – A responsive website design built using Bootstrap.  
 
 > 💡 You can see all my repositories [here](https://github.com/Sogand-mohamadiPour?tab=repositories).
 
@@ -49,5 +49,5 @@ I’m looking to contribute to **open-source projects** and collaborate on creat
 
 ## 🌟 Fun Fact
 
-💡 I can **debug CSS while explaining English grammar** — a rare combination that makes me both pixel-perfect and grammatically correct.
+💡 I can debug CSS while explaining English grammar — a rare combination that makes my work both pixel-perfect and grammatically correct.
 
