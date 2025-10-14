@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sogand Mohamadipour</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=💻+Frontend+Developer;🎨+HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;⚛️+React+Developer;🚀+Currently+Learning+Next.js" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=💻+Frontend+Developer;🎨+HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;⚛️+React+Developer;🚀+Learning+Next.js+to+Build+Modern+Web+Apps" alt="Typing Animation">
 </p>
 
 ---
@@ -66,12 +66,12 @@ I enjoy crafting elegant interfaces and bringing ideas to life through **modern,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sogand-mohamadiPour&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sogand-mohamadiPour&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sogand-mohamadiPour&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sogand-mohamadiPour&theme=tokyonight" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sogand-mohamadiPour&theme=tokyo-night" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sogand-mohamadiPour&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph">
 </p>
 
 <p align="center">
