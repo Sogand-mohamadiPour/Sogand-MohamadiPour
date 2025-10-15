@@ -44,6 +44,10 @@ I have strong experience with **HTML**, **CSS**, **Bootstrap**, **JavaScript**, 
 - 🛍️ **[Digiato](https://github.com/Sogand-mohamadiPour/digito)** —  
   A fully **responsive digital store website** built using **Bootstrap** and **custom CSS**, focused on elegant layout and smooth user experience.
 
+- 🏫 **[Institute Admin Panel](https://github.com/pooyansaeedinia/institute-panel)** —  
+  A collaborative project featuring a **frontend built by me** with **HTML, CSS, Bootstrap, and JavaScript**,  
+  and a **Python backend** developed by [Pooyan Saeedinia](https://github.com/pooyansaeedinia).  
+
 > 💡 Check out more of my work on [GitHub Repositories](https://github.com/Sogand-mohamadiPour?tab=repositories)
 
 ---
