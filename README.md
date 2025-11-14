@@ -39,11 +39,12 @@ I have solid experience with **HTML**, **CSS**, **Bootstrap**, **JavaScript**, *
 
 ### 🌐 Featured Projects  
 
+- 🎬 **[usePopcorn](https://github.com/Sogand-mohamadiPour/usepopcorn)** —  
+  A responsive **React** movie-search application where users can explore films, view details, and build a personal watchlist.  
+  Powered by React hooks like **useState**, **useEffect**, and a clean component structure for a smooth experience.
+
 - 🐾 **[Pet World](https://github.com/Sogand-mohamadiPour/pet-world)** —  
   A pet shop web app with **shopping cart functionality**, clean UI, and advanced JavaScript logic.  
-
-- 🛍️ **[Digiato](https://github.com/Sogand-mohamadiPour/digito)** —  
-  A fully **responsive digital store website** built using **Bootstrap** and **custom CSS**, focused on elegant layout and smooth user experience.
 
 - 🏫 **[Institute Admin Panel](https://github.com/pooyansaeedinia/institute-panel)** —  
   A collaborative project featuring a **frontend built by me** with **HTML, CSS, Bootstrap, and JavaScript**,  
