@@ -61,7 +61,7 @@ I love crafting elegant interfaces and bringing ideas to life through **modern, 
 ---
 
 ### 📫 Contact Me  
-📧 [Email Me](mailto:sogandmohamadipour7@gmail.com)  
+📧 [Email](mailto:sogandmohamadipour7@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/sogand-mohamadipour-93125a268)  
 
 ---
