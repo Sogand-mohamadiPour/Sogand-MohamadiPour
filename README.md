@@ -41,19 +41,19 @@ I have solid experience with **HTML**, **CSS**, **Bootstrap**, **JavaScript**, *
 
 ### 🌐 Featured Projects  
 
+- 🌍 **[WorldsWise](https://github.com/Sogand-mohamadiPour/world-wise)** —  
+A travel journal app where you can **add and track different cities you’ve traveled to**,  
+built with **React** and backend with **DRF** using **Context API**, **useReducer**, and **authentication** for managing your data.
+
 - 🎬 **[usePopcorn](https://github.com/Sogand-mohamadiPour/usepopcorn)** —  
   A responsive **React** movie-search application where users can explore films, view details, and build a personal watchlist.  
   Powered by React hooks like **useState**, **useEffect**, and a clean component structure for a smooth experience.
-
-- 🌍 **[WorldsWise](https://github.com/Sogand-mohamadiPour/world-wise)** —  
-A travel journal app where you can **add and track different cities you’ve traveled to**,  
-built with **React** using **Context API**, **useReducer**, and **authentication** for managing your data.
 
 - 🐾 **[Pet World](https://github.com/Sogand-mohamadiPour/pet-world)** —  
   A pet shop web app with **shopping cart functionality**, clean UI, and advanced JavaScript logic.  
 
 
-> 💡 Explore more of my work on [GitHub Repositories](https://github.com/Sogand-mohamadiPour?tab=repositories)
+> 💡 Explore more of my work on my [GitHub Repositories](https://github.com/Sogand-mohamadiPour?tab=repositories)
 
 ---
 
