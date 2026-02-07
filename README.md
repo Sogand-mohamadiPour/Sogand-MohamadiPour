@@ -8,7 +8,8 @@
 
 ### 💫 About Me  
 I'm a **Frontend Developer** passionate about building **responsive**, **interactive**, and **high-performance** web applications.  
-I have solid experience with **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, and **Tailwind CSS**, and I’m currently learning **Next.js** to create faster and more scalable web apps.  
+
+I work confidently with **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind**, and **Next.js**, focusing on clean architecture and scalable UI development. I’m currently diving into **TypeScript** to strengthen code quality and long-term maintainability.
 
 ✨ With a background as an **English teacher**, I bring strong communication and clarity to my projects — ensuring both my **code and design** are clean, structured, and user-friendly.  
 
@@ -17,8 +18,8 @@ I have solid experience with **HTML**, **CSS**, **Bootstrap**, **JavaScript**, *
 ### 🛠 Tech Stack
 
 #### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
